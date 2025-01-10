@@ -12,27 +12,16 @@ tags:
 - diffusers
 - template:diffusion-lora
 instance_prompt: anime
-widget:
-- text: 'anime girl 1girl, alcohol carton, blush, braid, bridge, crosswalk, dress, green dress, holding carton, long hair, long sleeves, multiple girls, night, open mouth, outdoors, pedestrian bridge, purple eyes, red hair, single braid, solo focus, spaghetti strap'
-  output:
-    url: samples/ComfyUI_00017_.webp
-- text: '<prompt in metadata>'
-  output:
-    url: samples/ComfyUI_00024_.webp
-- text: '<prompt in metadata>'
-  output:
-    url: samples/ComfyUI_00068_.webp
-- text: 'anime scene of a vibrant carnival with colorful rides, games, and food stalls, and a clown handing balloons to a group of laughing children.'
-  output:
-    url: samples/ComfyUI_00071_.webp
 ---
 
 # **AnimaEngine**
 
-<Gallery />
+![Sample 1](samples/ComfyUI_00017_.webp)
+![Sample 2](samples/ComfyUI_00024_.webp)
+![Sample 3](samples/ComfyUI_00068_.webp)
+![Sample 4](samples/ComfyUI_00071_.webp)
 
-
-[v0.1 - testing version]
+[v0.1 - Testing Version]
 
 
 
